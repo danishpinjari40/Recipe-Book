@@ -9,14 +9,13 @@ import { auth } from './firebase';
 import { onAuthStateChanged } from 'firebase/auth';
 
 const App = () => {
-
-const [userName, setUserName] = useState("");
+	const [userName, setUserName] = useState('');
 
 	useEffect(() => {
 		auth.onAuthStateChanged((user) => {
-		if(user){
-			setUserName(user.displayName)
-		}else setUserName("")
+			if (user) {
+				setUserName(user.displayName);
+			} else setUserName('');
 		});
 	}, []);
 
