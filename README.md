@@ -2,6 +2,8 @@
 
 This project is a React-based web application that allows users to search for recipes using the Edamam API. The application fetches and displays recipe data based on user input, offering an intuitive and responsive interface with Chakra UI components.
 
+## Live Link --> https://reacipebookreact.netlify.app/
+
 ## Demo Video Tutorial
 
 ![Demo of the feature](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXFkM2xxNDExOHVmc2t3M2U2YWdrM3RhOW9uMGJ0enJvMXZzbGJ6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QaY5ZGneAvkOwCuy6U/giphy.gif)
