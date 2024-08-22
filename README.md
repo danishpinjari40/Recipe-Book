@@ -4,12 +4,7 @@ This project is a React-based web application that allows users to search for re
 
 ## Demo Video Tutorial
 
-Here's a short tutorial video that walks you through the features and usage of the Recipe Search Application. The video will autoplay to give you an immediate overview:
-<video width="600" controls autoplay>
-
-  <source src="./Recipe App React.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Demo of the feature](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXFkM2xxNDExOHVmc2t3M2U2YWdrM3RhOW9uMGJ0enJvMXZzbGJ6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QaY5ZGneAvkOwCuy6U/giphy.gif)
 
 ## Technologies Used
 
